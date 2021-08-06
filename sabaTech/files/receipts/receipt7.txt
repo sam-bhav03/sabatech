@@ -1,0 +1,12 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  7 
+
+Product                          Quantity    Price(rs) 
+1 Moniter Nitro                  2          45 
+2 Moniter Nitro                  2          45 
+Total items bought:  4   Total : 90 
+
+_____..____._..___.__._____._...__._.__. 
+
+Sunday 16th March 2021 
+--       Thank you for your visit, see you soon :)      -- 

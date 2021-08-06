@@ -1,0 +1,13 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  17 
+
+Product                          Quantity    Price(rs) 
+1 Monitor Nitro                  2          19850 
+2 Keyboard Mechanical Gaming     2          6750 
+3 Keyboard Mechanical Gaming     3          10125 
+Total items bought:  7   Total : 36725 
+
+_.__._._...____.._.._.__......_._..__._. 
+
+Tue Jun 01 14:29:45 MUT 2021 
+--       Thank you for your visit, see you soon :)      -- 

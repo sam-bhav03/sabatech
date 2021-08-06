@@ -1,0 +1,13 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  4 
+
+Product                          Quantity    Price(rs) 
+1 Moniter Nitro                  2          45 
+2 Keyboard Mechanical Gaming     2          45 
+3 Mouse                          2          45 
+Total items bought:  6   Total : 135 
+
+_..__._._._.__._.__.__..__.___._._.._.__ 
+
+Sunday 16th March 2021 
+--       Thank you for your visit, see you soon :)      -- 

@@ -1,0 +1,13 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  19 
+
+Product                          Quantity    Price(rs) 
+1 Monitor LCD Gaming             2          13580 
+2 Keyboard Wireless              3          2700 
+3 Mouse Wireless                 4          1800 
+Total items bought:  9   Total : 18080 
+
+.._._..____...._...___..._._......_...._ 
+
+Tue Jun 01 22:30:05 MUT 2021 
+--       Thank you for your visit, see you soon :)      -- 

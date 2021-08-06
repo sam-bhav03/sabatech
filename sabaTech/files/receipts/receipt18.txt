@@ -1,0 +1,12 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  18 
+
+Product                          Quantity    Price(rs) 
+1 Keyboard Mechanical Gaming     2          6750 
+2 Mouse Wireless                 6          2700 
+Total items bought:  8   Total : 9450 
+
+____._..._._...___.._....._.__.___._._.. 
+
+Tue Jun 01 15:11:29 MUT 2021 
+--       Thank you for your visit, see you soon :)      -- 

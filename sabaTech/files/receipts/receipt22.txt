@@ -1,0 +1,12 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  22 
+
+Product                          Quantity    Price(rs) 
+1 Monitor Nitro                  2          19850 
+2 Mouse Wireless                 4          1800 
+Total items bought:  6   Total : 21650 
+
+____._..___......_._.___._..._..__....__ 
+
+Thu Jun 03 20:27:07 MUT 2021 
+--       Thank you for your visit, see you soon :)      -- 

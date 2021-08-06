@@ -1,0 +1,11 @@
+--                   Welcome to sabatech                -- 
+Receipt ID:  14 
+
+Product                          Quantity    Price(rs) 
+1 Monitor LCD Eye Care           1          9925 
+Total items bought:  1   Total : 9925 
+
+..__.__._._...._____._._..._.___.__.._._ 
+
+Mon May 31 19:51:18 MUT 2021 
+--       Thank you for your visit, see you soon :)      -- 
